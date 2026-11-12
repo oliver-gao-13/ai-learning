@@ -19,12 +19,12 @@ sidebar:
 
 ## Checklist
 
-- [ ] 10-minute self-test with the Kaggle Python exercises
-- [ ] (If needed) Kaggle Python
-- [ ] Kaggle Pandas
-  - [ ] Read CSV / Excel files
-  - [ ] Select rows and columns; handle missing values
-  - [ ] Group and summarize (`groupby`)
+- [x] 10-minute self-test with the Kaggle Python exercises
+- [x] (If needed) Kaggle Python
+- [x] Kaggle Pandas
+  - [x] Read CSV / Excel files
+  - [x] Select rows and columns; handle missing values
+  - [x] Group and summarize (`groupby`)
 
 ## Notes
 

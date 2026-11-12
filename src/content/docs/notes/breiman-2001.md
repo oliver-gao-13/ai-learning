@@ -9,7 +9,7 @@ sidebar:
 
 Also see Breiman and Cutler's [Random Forests page](https://www.stat.berkeley.edu/~breiman/RandomForests/).
 
-**Status:** Reading
+**Status:** Done
 
 ## Summary of the paper's main points
 

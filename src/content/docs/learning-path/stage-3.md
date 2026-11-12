@@ -20,12 +20,12 @@ sidebar:
 ## Checklist
 
 - [x] Google Decision Forests: splitting, overfitting, pruning, feature importance, ensembles
-- [ ] Kaggle Intro to Machine Learning
-  - [ ] Train a decision tree with scikit-learn
-  - [ ] Train a random forest and compare its error with the decision tree
+- [x] Kaggle Intro to Machine Learning
+  - [x] Train a decision tree with scikit-learn
+  - [x] Train a random forest and compare its error with the decision tree
 - [ ] Record the parameter-comparison experiment from Nov 6 (data, parameters, results) on the [Experiments](../../practice/experiments/) page
-- [ ] Read Breiman (2001)
-  - [ ] First pass: §1–4 (definition, strength and correlation, OOB estimates) and §10 (variable importance); skip proofs
+- [x] Read Breiman (2001)
+  - [x] First pass: §1–4 (definition, strength and correlation, OOB estimates) and §10 (variable importance); skip proofs
   - [ ] Write a one-page reading note
 
 ## Notes

@@ -3,6 +3,12 @@ title: Update Log
 description: Dated record of learning progress.
 ---
 
+## November 12, 2026
+
+- Completed Stages 1–3 of the learning path: core ML concepts (Google ML Crash Course), Python for tabular data (Kaggle Python and Pandas), and decision trees and random forests (Kaggle Intro to Machine Learning, Breiman 2001).
+- Started Stage 4: model evaluation, tuning, and gradient boosting (Kaggle Intermediate Machine Learning).
+- Launched this website to centralize resources, links, and notes.
+
 ## November 6, 2026
 
 Started decision trees and random forests as part of building a broader foundation in machine learning, since they work well with structured data.

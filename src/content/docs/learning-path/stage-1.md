@@ -21,10 +21,10 @@ sidebar:
 
 - [x] AI for Everyone course
 - [x] Review the AIMA table of contents for an overview of AI
-- [ ] Complete the basics of Google ML Crash Course
-  - [ ] Explain in my own words: feature, label, training set, test set
-  - [ ] Explain overfitting and why a test set is held out
-  - [ ] Distinguish regression (predict a number) from classification (predict a category)
+- [x] Complete the basics of Google ML Crash Course
+  - [x] Explain in my own words: feature, label, training set, test set
+  - [x] Explain overfitting and why a test set is held out
+  - [x] Distinguish regression (predict a number) from classification (predict a category)
 
 ## Notes
 

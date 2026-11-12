@@ -12,6 +12,7 @@ export default defineConfig({
 			description:
 				'Resources, links, and notes on AI and machine learning, with a focus on construction engineering and management.',
 			lastUpdated: true,
+			markdown: { headingLinks: false },
 			customCss: ['./src/styles/custom.css'],
 			sidebar: [
 				{ label: 'Home', slug: 'index' },
