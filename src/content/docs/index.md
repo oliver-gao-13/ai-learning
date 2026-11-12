@@ -11,10 +11,10 @@ A collection of the resources, links, and notes I gather while learning machine 
 
 | Stage | Focus | Main resources | Status |
 |---|---|---|---|
-| [1. What is ML](learning-path/stage-1/) | Core concepts | AI for Everyone, AIMA, Google ML Crash Course | In progress |
-| [2. Python for tabular data](learning-path/stage-2/) | Python, pandas | Kaggle Python, Kaggle Pandas | Not started |
-| [3. First models](learning-path/stage-3/) | Decision trees, random forests | Google Decision Forests, Kaggle Intro to ML, Breiman (2001), ISLP Ch. 8 | In progress |
-| [4. Evaluation, tuning, boosting](learning-path/stage-4/) | Cross-validation, metrics, tuning, XGBoost | Kaggle Intermediate ML | Not started |
+| [1. What is ML](learning-path/stage-1/) | Core concepts | AI for Everyone, AIMA, Google ML Crash Course | Done |
+| [2. Python for tabular data](learning-path/stage-2/) | Python, pandas | Kaggle Python, Kaggle Pandas | Done |
+| [3. First models](learning-path/stage-3/) | Decision trees, random forests | Google Decision Forests, Kaggle Intro to ML, Breiman (2001), ISLP Ch. 8 | Done |
+| [4. Evaluation, tuning, boosting](learning-path/stage-4/) | Cross-validation, metrics, tuning, XGBoost | Kaggle Intermediate ML | In Progress |
 
 ## Other sections
 
