@@ -1,0 +1,24 @@
+/* Minimal, neutral look */
+:root {
+	--sl-font: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+	--sl-content-width: 48rem;
+}
+:root[data-theme='light'] {
+	--sl-color-accent-low: #e8eef7;
+	--sl-color-accent: #2b5a9e;
+	--sl-color-accent-high: #1c3b66;
+	--sl-color-white: #1a1a1a;
+	--sl-color-bg: #ffffff;
+	--sl-color-bg-nav: #ffffff;
+	--sl-color-bg-sidebar: #fafafa;
+}
+:root[data-theme='dark'] {
+	--sl-color-accent-low: #1c2633;
+	--sl-color-accent: #8fb3e6;
+	--sl-color-accent-high: #d6e4f7;
+}
+/* Plain headings and tables */
+.sl-markdown-content h2 { font-size: 1.35rem; border-bottom: 1px solid var(--sl-color-hairline); padding-bottom: 0.3rem; }
+.sl-markdown-content h3 { font-size: 1.1rem; }
+.sl-markdown-content table { font-size: 0.9rem; }
+.sl-markdown-content li:has(> input[type='checkbox']) { list-style: none; margin-left: -1.2rem; }
