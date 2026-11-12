@@ -1,5 +1,5 @@
 ---
-title: AI Learning Wiki
+title: AI Learning
 description: Resources, links, and notes on AI and machine learning, with a focus on construction engineering and management.
 ---
 

@@ -5,10 +5,10 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://oliver-gao-13.github.io',
-	base: '/ai-wiki',
+	base: '/ai-learning',
 	integrations: [
 		starlight({
-			title: 'AI Learning Wiki',
+			title: 'AI Learning',
 			description:
 				'Resources, links, and notes on AI and machine learning, with a focus on construction engineering and management.',
 			lastUpdated: true,

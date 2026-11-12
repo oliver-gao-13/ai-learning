@@ -1,4 +1,4 @@
-# AI Learning Wiki
+# AI Learning
 
 Built with [Astro Starlight](https://starlight.astro.build/).
 
@@ -15,7 +15,7 @@ npm run dev     # http://localhost:4321
 
 ## Publish to GitHub Pages
 
-1. Create a public repository on GitHub (e.g. `ai-wiki`) and push this folder to its `main` branch.
-2. In `astro.config.mjs`, set `site: 'https://<username>.github.io'` and `base: '/ai-wiki'`.
+1. Create a public repository on GitHub (e.g. `ai-learning`) and push this folder to its `main` branch.
+2. In `astro.config.mjs`, set `site: 'https://<username>.github.io'` and `base: '/ai-learning'`.
 3. On GitHub: Settings → Pages → Source: **GitHub Actions**.
 4. Every push to `main` rebuilds and deploys via `.github/workflows/deploy.yml`.
