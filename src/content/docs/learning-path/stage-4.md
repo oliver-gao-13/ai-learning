@@ -23,7 +23,7 @@ sidebar:
   - [ ] Missing values and categorical variables
   - [ ] Pipelines (avoiding data leakage)
   - [ ] Cross-validation
-  - [ ] XGBoost (gradient boosting)
+  - [x] XGBoost (gradient boosting)
   - [ ] Data leakage
 - [ ] Understand three splitting strategies: `KFold`, `GroupKFold` (by batch or equipment), `TimeSeriesSplit` (by time)
 - [ ] Understand metrics: MAE / RMSE / R² for regression; F1 / ROC-AUC for classification

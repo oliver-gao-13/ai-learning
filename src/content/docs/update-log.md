@@ -3,6 +3,10 @@ title: Update Log
 description: Dated record of learning progress.
 ---
 
+## November 20, 2026
+
+- Completed the XGBoost lesson of Kaggle Intermediate Machine Learning (Stage 4): gradient boosting builds trees sequentially, each correcting the errors of the previous ones; key parameters include the number of trees, learning rate, and tree depth.
+
 ## November 12, 2026
 
 - Completed Stages 1–3 of the learning path: core ML concepts (Google ML Crash Course), Python for tabular data (Kaggle Python and Pandas), and decision trees and random forests (Kaggle Intro to Machine Learning, Breiman 2001).
